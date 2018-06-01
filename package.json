@@ -1,0 +1,14 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Lewis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
